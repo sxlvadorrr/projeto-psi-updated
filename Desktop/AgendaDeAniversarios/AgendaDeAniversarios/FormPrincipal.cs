@@ -14,7 +14,7 @@ namespace AgendaDeAniversarios
         public FormPrincipal()
         {
             Text = "Agenda de Aniversários";
-            
+
             Size = new Size(600, 440);
             BackColor = Color.White;
 
@@ -155,6 +155,11 @@ namespace AgendaDeAniversarios
                 AtualizarLista();
             }
             formulario.Dispose();
+        }
+
+        private void InitializeComponent()
+        {
+
         }
 
         private void Eliminar(object sender, EventArgs e)

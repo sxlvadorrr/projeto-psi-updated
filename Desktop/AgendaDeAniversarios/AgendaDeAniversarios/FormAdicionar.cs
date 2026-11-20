@@ -14,7 +14,7 @@ namespace AgendaDeAniversarios
         {
             posicao = numero;
             Text = "Adicionar aniversário";
-            
+
             Size = new Size(370, 280);
             BackColor = Color.White;
 
@@ -90,6 +90,11 @@ namespace AgendaDeAniversarios
 
             DialogResult = DialogResult.OK;
             Close();
+        }
+
+        private void InitializeComponent()
+        {
+
         }
 
         private void Cancelar(object sender, EventArgs e)

@@ -53,3 +53,4 @@ C:\Users\127358\Desktop\AgendaDeAniversarios\AgendaDeAniversarios\obj\Debug\net1
 C:\Users\127358\Desktop\AgendaDeAniversarios\AgendaDeAniversarios\obj\Debug\net10.0-windows\AgendaDeAniversarios.genruntimeconfig.cache
 C:\Users\127358\Desktop\AgendaDeAniversarios\AgendaDeAniversarios\obj\Debug\net10.0-windows\ref\AgendaDeAniversarios.dll
 C:\Users\127358\Desktop\AgendaDeAniversarios\AgendaDeAniversarios\obj\Debug\net10.0-windows\AgendaDe.65CAABD1.Up2Date
+C:\Users\127358\Desktop\AgendaDeAniversarios\AgendaDeAniversarios\obj\Debug\net10.0-windows\AgendaDeAniversarios.sourcelink.json
